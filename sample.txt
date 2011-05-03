@@ -1,0 +1,205 @@
+------------------------------------------------------------
+  Gamelog
+  Listener: Mikk36
+  Session started: 2011.04.22 10:02:51
+------------------------------------------------------------
+[ 2011.04.22 10:17:08 ] (None) Undocking from Osmon II - Moon 1 - Sisters of EVE Bureau to Osmon solar system.
+[ 2011.04.22 10:18:16 ] (None) Jumping to Stargate (Osmon) in Olo solar system
+[ 2011.04.22 10:19:20 ] (None) Jumping to Stargate (Olo) in Obanen solar system
+[ 2011.04.22 10:20:17 ] (None) Jumping to Stargate (Obanen) in Poinen solar system
+[ 2011.04.22 10:20:30 ] (notify) Autopilot engaged
+[ 2011.04.22 10:21:16 ] (notify) Autopilot jumping to Otela
+[ 2011.04.22 10:21:16 ] (None) Jumping to Stargate (Poinen) in Otela solar system
+[ 2011.04.22 10:21:21 ] (notify) Autopilot disabled - Waypoint reached
+[ 2011.04.22 10:21:29 ] (notify) Warping to Otela V - Moon 1 - Expert Housing Foundry prior to making docking attempt
+[ 2011.04.22 10:22:10 ] (notify) Requested to dock at Otela V - Moon 1 - Expert Housing Foundry station
+[ 2011.04.22 10:22:10 ] (notify) Your docking request has been accepted. Your ship will be towed into station.
+[ 2011.04.22 10:23:48 ] (None) Undocking from Otela V - Moon 1 - Expert Housing Foundry to Otela solar system.
+[ 2011.04.22 10:24:38 ] (notify) You cannot do that while warping.
+[ 2011.04.22 10:24:38 ] (notify) You cannot do that while warping.
+[ 2011.04.22 10:24:44 ] (notify) Session change already in progress.
+[ 2011.04.22 10:24:45 ] (None) Jumping to Stargate (Otela) in Poinen solar system
+[ 2011.04.22 10:25:45 ] (notify) Session change already in progress.
+[ 2011.04.22 10:25:46 ] (None) Jumping to Stargate (Poinen) in Obanen solar system
+[ 2011.04.22 10:26:49 ] (notify) Session change already in progress.
+[ 2011.04.22 10:26:50 ] (None) Jumping to Stargate (Obanen) in Olo solar system
+[ 2011.04.22 10:27:10 ] (notify) Autopilot engaged
+[ 2011.04.22 10:27:43 ] (notify) Session change already in progress.
+[ 2011.04.22 10:27:43 ] (notify) Session change already in progress.
+[ 2011.04.22 10:27:43 ] (notify) Session change already in progress.
+[ 2011.04.22 10:27:43 ] (None) Jumping to Stargate (Olo) in Osmon solar system
+[ 2011.04.22 10:27:44 ] (notify) Autopilot jumping to Osmon
+[ 2011.04.22 10:27:48 ] (notify) Autopilot disabled - Waypoint reached
+[ 2011.04.22 10:28:04 ] (notify) Warping to Osmon II - Moon 1 - Sisters of EVE Bureau prior to making docking attempt
+[ 2011.04.22 10:28:58 ] (notify) Requested to dock at Osmon II - Moon 1 - Sisters of EVE Bureau station
+[ 2011.04.22 10:28:58 ] (notify) Your docking request has been accepted. Your ship will be towed into station.
+[ 2011.04.22 10:37:19 ] (None) Undocking from Osmon II - Moon 1 - Sisters of EVE Bureau to Osmon solar system.
+[ 2011.04.22 10:37:33 ] (notify) Autopilot engaged
+[ 2011.04.22 10:38:21 ] (notify) Autopilot jumping to Korsiki
+[ 2011.04.22 10:38:22 ] (None) Jumping to Stargate (Osmon) in Korsiki solar system
+[ 2011.04.22 10:38:26 ] (notify) Autopilot disabled - Waypoint reached
+[ 2011.04.22 10:39:56 ] (notify) Approaching Outpost Headquarters
+[ 2011.04.22 10:40:11 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Deathguard, causing 1380.5 damage.
+[ 2011.04.22 10:40:12 ] (combat) <color=0xffbb6600>Havoc Heavy Missile belonging to Seven Deathguard hits you, doing 52.5 damage.
+[ 2011.04.22 10:40:14 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Olufami hits you, doing 29.9 damage.
+[ 2011.04.22 10:40:15 ] (combat) <color=0xffbb6600>Havoc Heavy Missile belonging to Seven Assassin hits you, doing 78.8 damage.
+[ 2011.04.22 10:40:15 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
+[ 2011.04.22 10:40:15 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
+[ 2011.04.22 10:40:15 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
+[ 2011.04.22 10:40:15 ] (combat) <color=0xffbb6600>Havoc Heavy Missile belonging to Seven Assassin hits you, doing 78.8 damage.
+[ 2011.04.22 10:40:17 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Deathguard, causing 1196.8 damage.
+[ 2011.04.22 10:40:18 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 90.1 damage.
+[ 2011.04.22 10:40:20 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
+[ 2011.04.22 10:40:21 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 1786.2 damage.
+[ 2011.04.22 10:40:23 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 89.1 damage.
+[ 2011.04.22 10:40:24 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Bodyguard, causing 467.6 damage.
+[ 2011.04.22 10:40:27 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 1623.0 damage.
+[ 2011.04.22 10:40:28 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.7 damage.
+[ 2011.04.22 10:40:29 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
+[ 2011.04.22 10:40:31 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Olufami hits you, doing 29.9 damage.
+[ 2011.04.22 10:40:31 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Assassin, causing 442.7 damage.
+[ 2011.04.22 10:40:32 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
+[ 2011.04.22 10:40:32 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
+[ 2011.04.22 10:40:32 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.5 damage.
+[ 2011.04.22 10:40:32 ] (combat) <color=0xffbb6600>Olufami hits you, doing 52.9 damage.
+[ 2011.04.22 10:40:33 ] (combat) <color=0xffbb6600>Havoc Heavy Missile belonging to Seven Assassin hits you, doing 78.8 damage.
+[ 2011.04.22 10:40:33 ] (combat) <color=0xffbb6600>Havoc Heavy Missile belonging to Seven Assassin hits you, doing 78.8 damage.
+[ 2011.04.22 10:40:34 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Assassin, doing 1097.4 damage.
+[ 2011.04.22 10:40:35 ] (combat) Seven Bodyguard misses you completely.
+[ 2011.04.22 10:40:35 ] (combat) <color=0xffbb6600>Olufami places an excellent hit on you, inflicting 90.4 damage.
+[ 2011.04.22 10:40:37 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.5 damage.
+[ 2011.04.22 10:40:37 ] (combat) Seven Bodyguard misses you completely.
+[ 2011.04.22 10:40:37 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Assassin, causing 1062.7 damage.
+[ 2011.04.22 10:40:38 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
+[ 2011.04.22 10:40:38 ] (combat) Seven Bodyguard misses you completely.
+[ 2011.04.22 10:40:38 ] (combat) <color=0xffbb6600>Olufami aims well at you, inflicting 71.2 damage.
+[ 2011.04.22 10:40:40 ] (combat) <color=0xffbb6600>Seven Bodyguard barely scratches you, causing 33.0 damage.
+[ 2011.04.22 10:40:40 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Assassin, doing 2102.1 damage.
+[ 2011.04.22 10:40:41 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:40:41 ] (combat) <color=0xffbb6600>Zor hits you, doing 0.0 damage.
+[ 2011.04.22 10:40:41 ] (combat) <color=0xffbb6600>Seven Bodyguard barely scratches you, causing 28.9 damage.
+[ 2011.04.22 10:40:41 ] (combat) <color=0xffbb6600>Olufami hits you, doing 57.2 damage.
+[ 2011.04.22 10:40:43 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 35.0 damage.
+[ 2011.04.22 10:40:44 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Seven Assassin, doing 981.0 damage.
+[ 2011.04.22 10:40:44 ] (combat) <color=0xffbb6600>Seven Bodyguard barely scratches you, causing 31.6 damage.
+[ 2011.04.22 10:40:44 ] (combat) <color=0xffbb6600>Olufami barely scratches you, causing 38.9 damage.
+[ 2011.04.22 10:40:46 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:40:46 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Olufami hits you, doing 29.9 damage.
+[ 2011.04.22 10:40:46 ] (combat) Seven Bodyguard misses you completely.
+[ 2011.04.22 10:40:47 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
+[ 2011.04.22 10:40:47 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Assassin, doing 1537.8 damage.
+[ 2011.04.22 10:40:47 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 39.0 damage.
+[ 2011.04.22 10:40:47 ] (combat) <color=0xffbb6600>Olufami barely scratches you, causing 37.3 damage.
+[ 2011.04.22 10:40:48 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
+[ 2011.04.22 10:40:48 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
+[ 2011.04.22 10:40:49 ] (combat) Seven Bodyguard misses you completely.
+[ 2011.04.22 10:40:50 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Assassin, doing 2569.2 damage.
+[ 2011.04.22 10:40:50 ] (combat) Seven Bodyguard misses you completely.
+[ 2011.04.22 10:40:51 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:40:51 ] (combat) <color=0xffbb6600>Olufami hits you, doing 49.0 damage.
+[ 2011.04.22 10:40:52 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 41.4 damage.
+[ 2011.04.22 10:40:54 ] (combat) Seven Bodyguard misses you completely.
+[ 2011.04.22 10:40:54 ] (combat) <color=0xffbb6600>Olufami barely scratches you, causing 35.1 damage.
+[ 2011.04.22 10:40:54 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Olufami, doing 1560.1 damage.
+[ 2011.04.22 10:40:55 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:40:56 ] (combat) Seven Macleari misses you completely.
+[ 2011.04.22 10:40:56 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 40.7 damage.
+[ 2011.04.22 10:40:57 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
+[ 2011.04.22 10:40:57 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 38.8 damage.
+[ 2011.04.22 10:40:57 ] (combat) <color=0xffbb6600>Olufami hits you, doing 55.8 damage.
+[ 2011.04.22 10:40:57 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Olufami, doing 1442.4 damage.
+[ 2011.04.22 10:40:58 ] (combat) Seven Macleari misses you completely.
+[ 2011.04.22 10:40:59 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 35.7 damage.
+[ 2011.04.22 10:41:00 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:41:00 ] (combat) Seven Bodyguard misses you completely.
+[ 2011.04.22 10:41:00 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Olufami, doing 2551.6 damage.
+[ 2011.04.22 10:41:01 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 35.8 damage.
+[ 2011.04.22 10:41:02 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 39.9 damage.
+[ 2011.04.22 10:41:03 ] (combat) Seven Bodyguard misses you completely.
+[ 2011.04.22 10:41:03 ] (combat) Seven Macleari misses you completely.
+[ 2011.04.22 10:41:04 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
+[ 2011.04.22 10:41:04 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
+[ 2011.04.22 10:41:04 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Seven Bodyguard, doing 1470.4 damage.
+[ 2011.04.22 10:41:05 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:41:05 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 40.8 damage.
+[ 2011.04.22 10:41:06 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
+[ 2011.04.22 10:41:06 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 41.2 damage.
+[ 2011.04.22 10:41:06 ] (combat) <color=0xffbb6600>Seven Bodyguard hits you, doing 52.4 damage.
+[ 2011.04.22 10:41:07 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 1114.0 damage.
+[ 2011.04.22 10:41:08 ] (combat) Seven Macleari misses you completely.
+[ 2011.04.22 10:41:08 ] (combat) <color=0xffbb6600>Seven Bodyguard strikes you perfectly, wrecking for 166.9 damage.
+[ 2011.04.22 10:41:09 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:41:09 ] (combat) <color=0xffbb6600>Seven Bodyguard hits you, doing 55.4 damage.
+[ 2011.04.22 10:41:10 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Bodyguard, causing 908.4 damage.
+[ 2011.04.22 10:41:11 ] (combat) Seven Macleari misses you completely.
+[ 2011.04.22 10:41:11 ] (combat) <color=0xffbb6600>Seven Bodyguard hits you, doing 44.0 damage.
+[ 2011.04.22 10:41:13 ] (combat) <color=0xffbb6600>Seven Bodyguard aims well at you, inflicting 65.0 damage.
+[ 2011.04.22 10:41:13 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 373.4 damage.
+[ 2011.04.22 10:41:13 ] (combat) Seven Macleari misses you completely.
+[ 2011.04.22 10:41:14 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 90.6 damage.
+[ 2011.04.22 10:41:15 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
+[ 2011.04.22 10:41:16 ] (combat) Seven Macleari misses you completely.
+[ 2011.04.22 10:41:16 ] (combat) <color=0xffbb6600>Seven Bodyguard strikes you perfectly, wrecking for 166.9 damage.
+[ 2011.04.22 10:41:17 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Seven Thug, inflicting 1976.1 damage.
+[ 2011.04.22 10:41:18 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 89.9 damage.
+[ 2011.04.22 10:41:18 ] (combat) Seven Macleari misses you completely.
+[ 2011.04.22 10:41:19 ] (combat) <color=0xffbb6600>Seven Bodyguard hits you, doing 43.0 damage.
+[ 2011.04.22 10:41:20 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
+[ 2011.04.22 10:41:20 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Thug, doing 402.5 damage.
+[ 2011.04.22 10:41:21 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 35.6 damage.
+[ 2011.04.22 10:41:22 ] (combat) <color=0xffbb6600>Seven Bodyguard aims well at you, inflicting 60.5 damage.
+[ 2011.04.22 10:41:23 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 89.1 damage.
+[ 2011.04.22 10:41:23 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 34.3 damage.
+[ 2011.04.22 10:41:23 ] (notify) Approaching Outpost Headquarters
+[ 2011.04.22 10:41:24 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
+[ 2011.04.22 10:41:25 ] (combat) <color=0xffbb6600>Seven Bodyguard barely scratches you, causing 30.1 damage.
+[ 2011.04.22 10:41:26 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 36.6 damage.
+[ 2011.04.22 10:41:28 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 90.8 damage.
+[ 2011.04.22 10:41:28 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 1866.4 damage.
+[ 2011.04.22 10:41:28 ] (combat) Seven Macleari misses you completely.
+[ 2011.04.22 10:41:28 ] (combat) <color=0xffbb6600>Seven Bodyguard aims well at you, inflicting 63.0 damage.
+[ 2011.04.22 10:41:31 ] (combat) <color=0xffbb6600>Seven Macleari aims well at you, inflicting 72.2 damage.
+[ 2011.04.22 10:41:31 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 1475.7 damage.
+[ 2011.04.22 10:41:32 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 90.0 damage.
+[ 2011.04.22 10:41:32 ] (combat) <color=0xffbb6600>Seven Bodyguard hits you, doing 50.6 damage.
+[ 2011.04.22 10:41:33 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
+[ 2011.04.22 10:41:33 ] (combat) <color=0xffbb6600>Seven Macleari lightly hits you, doing 43.4 damage.
+[ 2011.04.22 10:41:34 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Seven Bodyguard, inflicting 497.4 damage.
+[ 2011.04.22 10:41:36 ] (combat) <color=0xffbb6600>Seven Macleari lightly hits you, doing 45.9 damage.
+[ 2011.04.22 10:41:37 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 89.1 damage.
+[ 2011.04.22 10:41:38 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Macleari, doing 1968.9 damage.
+[ 2011.04.22 10:41:38 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 36.8 damage.
+[ 2011.04.22 10:41:41 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Macleari, doing 1777.7 damage.
+[ 2011.04.22 10:41:41 ] (combat) <color=0xffbb6600>Seven Macleari hits you, doing 58.8 damage.
+[ 2011.04.22 10:41:42 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.7 damage.
+[ 2011.04.22 10:41:42 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
+[ 2011.04.22 10:41:44 ] (combat) <color=0xffbb6600>Seven Macleari hits you, doing 60.7 damage.
+[ 2011.04.22 10:41:44 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Macleari, doing 1624.8 damage.
+[ 2011.04.22 10:41:46 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.6 damage.
+[ 2011.04.22 10:41:46 ] (combat) <color=0xffbb6600>Seven Macleari places an excellent hit on you, inflicting 89.2 damage.
+[ 2011.04.22 10:41:47 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Seven Macleari, inflicting 2000.5 damage.
+[ 2011.04.22 10:41:49 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 35.0 damage.
+[ 2011.04.22 10:41:50 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Macleari, doing 2871.1 damage.
+[ 2011.04.22 10:41:51 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.5 damage.
+[ 2011.04.22 10:41:54 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Zor, inflicting 2329.3 damage.
+[ 2011.04.22 10:41:56 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:41:57 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Zor, doing 1725.9 damage.
+[ 2011.04.22 10:42:00 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:42:00 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Zor, doing 2169.4 damage.
+[ 2011.04.22 10:42:03 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Zor, inflicting 2275.5 damage.
+[ 2011.04.22 10:42:05 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:42:06 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Zor, doing 1634.4 damage.
+[ 2011.04.22 10:42:09 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Zor, doing 2314.5 damage.
+[ 2011.04.22 10:42:10 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
+[ 2011.04.22 10:42:12 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Zor, doing 2755.0 damage.
+[ 2011.04.22 10:42:19 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Outpost Headquarters, inflicting 3051.8 damage.
+[ 2011.04.22 10:42:22 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Outpost Headquarters, causing 1785.5 damage.
+[ 2011.04.22 10:42:25 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Outpost Headquarters, doing 2296.5 damage.
+[ 2011.04.22 10:42:28 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Outpost Headquarters, doing 2275.9 damage.
+[ 2011.04.22 10:42:28 ] (notify) Aligning to Stargate (Osmon)
+[ 2011.04.22 10:42:31 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Outpost Headquarters, doing 2135.8 damage.
+[ 2011.04.22 10:42:34 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Outpost Headquarters, doing 2065.8 damage.
+[ 2011.04.22 10:42:37 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Outpost Headquarters, doing 2271.5 damage.
+[ 2011.04.22 10:42:40 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Outpost Headquarters, inflicting 3236.2 damage.
+[ 2011.04.22 10:42:43 ] (notify) Autopilot engaged
+[ 2011.04.22 10:43:41 ] (notify) Autopilot jumping to Osmon
