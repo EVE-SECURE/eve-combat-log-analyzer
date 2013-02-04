@@ -1,205 +1,593 @@
 ------------------------------------------------------------
   Gamelog
-  Listener: Mikk36
-  Session started: 2011.04.22 10:02:51
+  Listener: Professor Latha'Serevi
+  Session Started: 2013.01.31 01:27:31
 ------------------------------------------------------------
-[ 2011.04.22 10:17:08 ] (None) Undocking from Osmon II - Moon 1 - Sisters of EVE Bureau to Osmon solar system.
-[ 2011.04.22 10:18:16 ] (None) Jumping to Stargate (Osmon) in Olo solar system
-[ 2011.04.22 10:19:20 ] (None) Jumping to Stargate (Olo) in Obanen solar system
-[ 2011.04.22 10:20:17 ] (None) Jumping to Stargate (Obanen) in Poinen solar system
-[ 2011.04.22 10:20:30 ] (notify) Autopilot engaged
-[ 2011.04.22 10:21:16 ] (notify) Autopilot jumping to Otela
-[ 2011.04.22 10:21:16 ] (None) Jumping to Stargate (Poinen) in Otela solar system
-[ 2011.04.22 10:21:21 ] (notify) Autopilot disabled - Waypoint reached
-[ 2011.04.22 10:21:29 ] (notify) Warping to Otela V - Moon 1 - Expert Housing Foundry prior to making docking attempt
-[ 2011.04.22 10:22:10 ] (notify) Requested to dock at Otela V - Moon 1 - Expert Housing Foundry station
-[ 2011.04.22 10:22:10 ] (notify) Your docking request has been accepted. Your ship will be towed into station.
-[ 2011.04.22 10:23:48 ] (None) Undocking from Otela V - Moon 1 - Expert Housing Foundry to Otela solar system.
-[ 2011.04.22 10:24:38 ] (notify) You cannot do that while warping.
-[ 2011.04.22 10:24:38 ] (notify) You cannot do that while warping.
-[ 2011.04.22 10:24:44 ] (notify) Session change already in progress.
-[ 2011.04.22 10:24:45 ] (None) Jumping to Stargate (Otela) in Poinen solar system
-[ 2011.04.22 10:25:45 ] (notify) Session change already in progress.
-[ 2011.04.22 10:25:46 ] (None) Jumping to Stargate (Poinen) in Obanen solar system
-[ 2011.04.22 10:26:49 ] (notify) Session change already in progress.
-[ 2011.04.22 10:26:50 ] (None) Jumping to Stargate (Obanen) in Olo solar system
-[ 2011.04.22 10:27:10 ] (notify) Autopilot engaged
-[ 2011.04.22 10:27:43 ] (notify) Session change already in progress.
-[ 2011.04.22 10:27:43 ] (notify) Session change already in progress.
-[ 2011.04.22 10:27:43 ] (notify) Session change already in progress.
-[ 2011.04.22 10:27:43 ] (None) Jumping to Stargate (Olo) in Osmon solar system
-[ 2011.04.22 10:27:44 ] (notify) Autopilot jumping to Osmon
-[ 2011.04.22 10:27:48 ] (notify) Autopilot disabled - Waypoint reached
-[ 2011.04.22 10:28:04 ] (notify) Warping to Osmon II - Moon 1 - Sisters of EVE Bureau prior to making docking attempt
-[ 2011.04.22 10:28:58 ] (notify) Requested to dock at Osmon II - Moon 1 - Sisters of EVE Bureau station
-[ 2011.04.22 10:28:58 ] (notify) Your docking request has been accepted. Your ship will be towed into station.
-[ 2011.04.22 10:37:19 ] (None) Undocking from Osmon II - Moon 1 - Sisters of EVE Bureau to Osmon solar system.
-[ 2011.04.22 10:37:33 ] (notify) Autopilot engaged
-[ 2011.04.22 10:38:21 ] (notify) Autopilot jumping to Korsiki
-[ 2011.04.22 10:38:22 ] (None) Jumping to Stargate (Osmon) in Korsiki solar system
-[ 2011.04.22 10:38:26 ] (notify) Autopilot disabled - Waypoint reached
-[ 2011.04.22 10:39:56 ] (notify) Approaching Outpost Headquarters
-[ 2011.04.22 10:40:11 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Deathguard, causing 1380.5 damage.
-[ 2011.04.22 10:40:12 ] (combat) <color=0xffbb6600>Havoc Heavy Missile belonging to Seven Deathguard hits you, doing 52.5 damage.
-[ 2011.04.22 10:40:14 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Olufami hits you, doing 29.9 damage.
-[ 2011.04.22 10:40:15 ] (combat) <color=0xffbb6600>Havoc Heavy Missile belonging to Seven Assassin hits you, doing 78.8 damage.
-[ 2011.04.22 10:40:15 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
-[ 2011.04.22 10:40:15 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
-[ 2011.04.22 10:40:15 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
-[ 2011.04.22 10:40:15 ] (combat) <color=0xffbb6600>Havoc Heavy Missile belonging to Seven Assassin hits you, doing 78.8 damage.
-[ 2011.04.22 10:40:17 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Deathguard, causing 1196.8 damage.
-[ 2011.04.22 10:40:18 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 90.1 damage.
-[ 2011.04.22 10:40:20 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
-[ 2011.04.22 10:40:21 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 1786.2 damage.
-[ 2011.04.22 10:40:23 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 89.1 damage.
-[ 2011.04.22 10:40:24 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Bodyguard, causing 467.6 damage.
-[ 2011.04.22 10:40:27 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 1623.0 damage.
-[ 2011.04.22 10:40:28 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.7 damage.
-[ 2011.04.22 10:40:29 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
-[ 2011.04.22 10:40:31 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Olufami hits you, doing 29.9 damage.
-[ 2011.04.22 10:40:31 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Assassin, causing 442.7 damage.
-[ 2011.04.22 10:40:32 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
-[ 2011.04.22 10:40:32 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
-[ 2011.04.22 10:40:32 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.5 damage.
-[ 2011.04.22 10:40:32 ] (combat) <color=0xffbb6600>Olufami hits you, doing 52.9 damage.
-[ 2011.04.22 10:40:33 ] (combat) <color=0xffbb6600>Havoc Heavy Missile belonging to Seven Assassin hits you, doing 78.8 damage.
-[ 2011.04.22 10:40:33 ] (combat) <color=0xffbb6600>Havoc Heavy Missile belonging to Seven Assassin hits you, doing 78.8 damage.
-[ 2011.04.22 10:40:34 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Assassin, doing 1097.4 damage.
-[ 2011.04.22 10:40:35 ] (combat) Seven Bodyguard misses you completely.
-[ 2011.04.22 10:40:35 ] (combat) <color=0xffbb6600>Olufami places an excellent hit on you, inflicting 90.4 damage.
-[ 2011.04.22 10:40:37 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.5 damage.
-[ 2011.04.22 10:40:37 ] (combat) Seven Bodyguard misses you completely.
-[ 2011.04.22 10:40:37 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Assassin, causing 1062.7 damage.
-[ 2011.04.22 10:40:38 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
-[ 2011.04.22 10:40:38 ] (combat) Seven Bodyguard misses you completely.
-[ 2011.04.22 10:40:38 ] (combat) <color=0xffbb6600>Olufami aims well at you, inflicting 71.2 damage.
-[ 2011.04.22 10:40:40 ] (combat) <color=0xffbb6600>Seven Bodyguard barely scratches you, causing 33.0 damage.
-[ 2011.04.22 10:40:40 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Assassin, doing 2102.1 damage.
-[ 2011.04.22 10:40:41 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:40:41 ] (combat) <color=0xffbb6600>Zor hits you, doing 0.0 damage.
-[ 2011.04.22 10:40:41 ] (combat) <color=0xffbb6600>Seven Bodyguard barely scratches you, causing 28.9 damage.
-[ 2011.04.22 10:40:41 ] (combat) <color=0xffbb6600>Olufami hits you, doing 57.2 damage.
-[ 2011.04.22 10:40:43 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 35.0 damage.
-[ 2011.04.22 10:40:44 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Seven Assassin, doing 981.0 damage.
-[ 2011.04.22 10:40:44 ] (combat) <color=0xffbb6600>Seven Bodyguard barely scratches you, causing 31.6 damage.
-[ 2011.04.22 10:40:44 ] (combat) <color=0xffbb6600>Olufami barely scratches you, causing 38.9 damage.
-[ 2011.04.22 10:40:46 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:40:46 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Olufami hits you, doing 29.9 damage.
-[ 2011.04.22 10:40:46 ] (combat) Seven Bodyguard misses you completely.
-[ 2011.04.22 10:40:47 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
-[ 2011.04.22 10:40:47 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Assassin, doing 1537.8 damage.
-[ 2011.04.22 10:40:47 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 39.0 damage.
-[ 2011.04.22 10:40:47 ] (combat) <color=0xffbb6600>Olufami barely scratches you, causing 37.3 damage.
-[ 2011.04.22 10:40:48 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
-[ 2011.04.22 10:40:48 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
-[ 2011.04.22 10:40:49 ] (combat) Seven Bodyguard misses you completely.
-[ 2011.04.22 10:40:50 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Assassin, doing 2569.2 damage.
-[ 2011.04.22 10:40:50 ] (combat) Seven Bodyguard misses you completely.
-[ 2011.04.22 10:40:51 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:40:51 ] (combat) <color=0xffbb6600>Olufami hits you, doing 49.0 damage.
-[ 2011.04.22 10:40:52 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 41.4 damage.
-[ 2011.04.22 10:40:54 ] (combat) Seven Bodyguard misses you completely.
-[ 2011.04.22 10:40:54 ] (combat) <color=0xffbb6600>Olufami barely scratches you, causing 35.1 damage.
-[ 2011.04.22 10:40:54 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Olufami, doing 1560.1 damage.
-[ 2011.04.22 10:40:55 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:40:56 ] (combat) Seven Macleari misses you completely.
-[ 2011.04.22 10:40:56 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 40.7 damage.
-[ 2011.04.22 10:40:57 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
-[ 2011.04.22 10:40:57 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 38.8 damage.
-[ 2011.04.22 10:40:57 ] (combat) <color=0xffbb6600>Olufami hits you, doing 55.8 damage.
-[ 2011.04.22 10:40:57 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Olufami, doing 1442.4 damage.
-[ 2011.04.22 10:40:58 ] (combat) Seven Macleari misses you completely.
-[ 2011.04.22 10:40:59 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 35.7 damage.
-[ 2011.04.22 10:41:00 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:41:00 ] (combat) Seven Bodyguard misses you completely.
-[ 2011.04.22 10:41:00 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Olufami, doing 2551.6 damage.
-[ 2011.04.22 10:41:01 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 35.8 damage.
-[ 2011.04.22 10:41:02 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 39.9 damage.
-[ 2011.04.22 10:41:03 ] (combat) Seven Bodyguard misses you completely.
-[ 2011.04.22 10:41:03 ] (combat) Seven Macleari misses you completely.
-[ 2011.04.22 10:41:04 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
-[ 2011.04.22 10:41:04 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
-[ 2011.04.22 10:41:04 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Seven Bodyguard, doing 1470.4 damage.
-[ 2011.04.22 10:41:05 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:41:05 ] (combat) <color=0xffbb6600>Seven Bodyguard lightly hits you, doing 40.8 damage.
-[ 2011.04.22 10:41:06 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
-[ 2011.04.22 10:41:06 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 41.2 damage.
-[ 2011.04.22 10:41:06 ] (combat) <color=0xffbb6600>Seven Bodyguard hits you, doing 52.4 damage.
-[ 2011.04.22 10:41:07 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 1114.0 damage.
-[ 2011.04.22 10:41:08 ] (combat) Seven Macleari misses you completely.
-[ 2011.04.22 10:41:08 ] (combat) <color=0xffbb6600>Seven Bodyguard strikes you perfectly, wrecking for 166.9 damage.
-[ 2011.04.22 10:41:09 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:41:09 ] (combat) <color=0xffbb6600>Seven Bodyguard hits you, doing 55.4 damage.
-[ 2011.04.22 10:41:10 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Seven Bodyguard, causing 908.4 damage.
-[ 2011.04.22 10:41:11 ] (combat) Seven Macleari misses you completely.
-[ 2011.04.22 10:41:11 ] (combat) <color=0xffbb6600>Seven Bodyguard hits you, doing 44.0 damage.
-[ 2011.04.22 10:41:13 ] (combat) <color=0xffbb6600>Seven Bodyguard aims well at you, inflicting 65.0 damage.
-[ 2011.04.22 10:41:13 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 373.4 damage.
-[ 2011.04.22 10:41:13 ] (combat) Seven Macleari misses you completely.
-[ 2011.04.22 10:41:14 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 90.6 damage.
-[ 2011.04.22 10:41:15 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
-[ 2011.04.22 10:41:16 ] (combat) Seven Macleari misses you completely.
-[ 2011.04.22 10:41:16 ] (combat) <color=0xffbb6600>Seven Bodyguard strikes you perfectly, wrecking for 166.9 damage.
-[ 2011.04.22 10:41:17 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Seven Thug, inflicting 1976.1 damage.
-[ 2011.04.22 10:41:18 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 89.9 damage.
-[ 2011.04.22 10:41:18 ] (combat) Seven Macleari misses you completely.
-[ 2011.04.22 10:41:19 ] (combat) <color=0xffbb6600>Seven Bodyguard hits you, doing 43.0 damage.
-[ 2011.04.22 10:41:20 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Bodyguard hits you, doing 74.9 damage.
-[ 2011.04.22 10:41:20 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Thug, doing 402.5 damage.
-[ 2011.04.22 10:41:21 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 35.6 damage.
-[ 2011.04.22 10:41:22 ] (combat) <color=0xffbb6600>Seven Bodyguard aims well at you, inflicting 60.5 damage.
-[ 2011.04.22 10:41:23 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 89.1 damage.
-[ 2011.04.22 10:41:23 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 34.3 damage.
-[ 2011.04.22 10:41:23 ] (notify) Approaching Outpost Headquarters
-[ 2011.04.22 10:41:24 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
-[ 2011.04.22 10:41:25 ] (combat) <color=0xffbb6600>Seven Bodyguard barely scratches you, causing 30.1 damage.
-[ 2011.04.22 10:41:26 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 36.6 damage.
-[ 2011.04.22 10:41:28 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 90.8 damage.
-[ 2011.04.22 10:41:28 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 1866.4 damage.
-[ 2011.04.22 10:41:28 ] (combat) Seven Macleari misses you completely.
-[ 2011.04.22 10:41:28 ] (combat) <color=0xffbb6600>Seven Bodyguard aims well at you, inflicting 63.0 damage.
-[ 2011.04.22 10:41:31 ] (combat) <color=0xffbb6600>Seven Macleari aims well at you, inflicting 72.2 damage.
-[ 2011.04.22 10:41:31 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Bodyguard, doing 1475.7 damage.
-[ 2011.04.22 10:41:32 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 90.0 damage.
-[ 2011.04.22 10:41:32 ] (combat) <color=0xffbb6600>Seven Bodyguard hits you, doing 50.6 damage.
-[ 2011.04.22 10:41:33 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
-[ 2011.04.22 10:41:33 ] (combat) <color=0xffbb6600>Seven Macleari lightly hits you, doing 43.4 damage.
-[ 2011.04.22 10:41:34 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Seven Bodyguard, inflicting 497.4 damage.
-[ 2011.04.22 10:41:36 ] (combat) <color=0xffbb6600>Seven Macleari lightly hits you, doing 45.9 damage.
-[ 2011.04.22 10:41:37 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 89.1 damage.
-[ 2011.04.22 10:41:38 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Macleari, doing 1968.9 damage.
-[ 2011.04.22 10:41:38 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 36.8 damage.
-[ 2011.04.22 10:41:41 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Macleari, doing 1777.7 damage.
-[ 2011.04.22 10:41:41 ] (combat) <color=0xffbb6600>Seven Macleari hits you, doing 58.8 damage.
-[ 2011.04.22 10:41:42 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.7 damage.
-[ 2011.04.22 10:41:42 ] (combat) <color=0xffbb6600>Scourge Heavy Missile belonging to Seven Macleari hits you, doing 35.9 damage.
-[ 2011.04.22 10:41:44 ] (combat) <color=0xffbb6600>Seven Macleari hits you, doing 60.7 damage.
-[ 2011.04.22 10:41:44 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Macleari, doing 1624.8 damage.
-[ 2011.04.22 10:41:46 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.6 damage.
-[ 2011.04.22 10:41:46 ] (combat) <color=0xffbb6600>Seven Macleari places an excellent hit on you, inflicting 89.2 damage.
-[ 2011.04.22 10:41:47 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Seven Macleari, inflicting 2000.5 damage.
-[ 2011.04.22 10:41:49 ] (combat) <color=0xffbb6600>Seven Macleari barely scratches you, causing 35.0 damage.
-[ 2011.04.22 10:41:50 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Seven Macleari, doing 2871.1 damage.
-[ 2011.04.22 10:41:51 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.5 damage.
-[ 2011.04.22 10:41:54 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Zor, inflicting 2329.3 damage.
-[ 2011.04.22 10:41:56 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:41:57 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Zor, doing 1725.9 damage.
-[ 2011.04.22 10:42:00 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:42:00 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Zor, doing 2169.4 damage.
-[ 2011.04.22 10:42:03 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Zor, inflicting 2275.5 damage.
-[ 2011.04.22 10:42:05 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:42:06 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Zor, doing 1634.4 damage.
-[ 2011.04.22 10:42:09 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Zor, doing 2314.5 damage.
-[ 2011.04.22 10:42:10 ] (combat) <color=0xffbb6600>Cataclysm Cruise Missile belonging to Zor hits you, doing 88.4 damage.
-[ 2011.04.22 10:42:12 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Zor, doing 2755.0 damage.
-[ 2011.04.22 10:42:19 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Outpost Headquarters, inflicting 3051.8 damage.
-[ 2011.04.22 10:42:22 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II barely scratches Outpost Headquarters, causing 1785.5 damage.
-[ 2011.04.22 10:42:25 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Outpost Headquarters, doing 2296.5 damage.
-[ 2011.04.22 10:42:28 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Outpost Headquarters, doing 2275.9 damage.
-[ 2011.04.22 10:42:28 ] (notify) Aligning to Stargate (Osmon)
-[ 2011.04.22 10:42:31 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Outpost Headquarters, doing 2135.8 damage.
-[ 2011.04.22 10:42:34 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II lightly hits Outpost Headquarters, doing 2065.8 damage.
-[ 2011.04.22 10:42:37 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II hits Outpost Headquarters, doing 2271.5 damage.
-[ 2011.04.22 10:42:40 ] (combat) <color=0xffbbbb00>Your group of 800mm Repeating Artillery II is well aimed at Outpost Headquarters, inflicting 3236.2 damage.
-[ 2011.04.22 10:42:43 ] (notify) Autopilot engaged
-[ 2011.04.22 10:43:41 ] (notify) Autopilot jumping to Osmon
+[ 2013.01.31 01:27:32 ] (notify) Local spatial phenomena may cause strange effects on your ship systems.
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>59</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>73</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>42</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>66</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:28:41 ] (combat) Awakened Defender misses you completely
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>55</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:41 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:45 ] (notify) You cannot launch Hobgoblin I because you are already controlling 5 drones, as much as you have skill to.
+[ 2013.01.31 01:28:46 ] (combat) <color=0xffcc0000><b>41</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:28:46 ] (combat) <color=0xffcc0000><b>63</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:28:46 ] (combat) <color=0xffcc0000><b>46</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:28:46 ] (combat) <color=0xffcc0000><b>76</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:28:46 ] (combat) <color=0xffcc0000><b>50</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:28:46 ] (combat) <color=0xffcc0000><b>93</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:28:46 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:28:46 ] (combat) Awakened Defender misses you completely
+[ 2013.01.31 01:28:51 ] (combat) <color=0xffcc0000><b>58</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:28:51 ] (combat) <color=0xffcc0000><b>63</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:28:51 ] (combat) <color=0xffcc0000><b>78</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:28:51 ] (combat) <color=0xffcc0000><b>72</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:28:51 ] (combat) <color=0xffcc0000><b>83</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:28:51 ] (combat) <color=0xffcc0000><b>56</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:28:51 ] (combat) <color=0xffcc0000><b>71</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:28:51 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:28:53 ] (combat) <color=0xff00ffff><b>121</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Hits
+[ 2013.01.31 01:28:53 ] (combat) <color=0xff00ffff><b>93</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Glances Off
+[ 2013.01.31 01:28:54 ] (notify) Drones engaging Awakened Defender
+[ 2013.01.31 01:28:56 ] (combat) <color=0xffcc0000><b>45</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:28:56 ] (combat) <color=0xffcc0000><b>85</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:28:56 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:28:56 ] (combat) <color=0xffcc0000><b>38</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:28:56 ] (combat) <color=0xffcc0000><b>48</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:28:56 ] (combat) <color=0xffcc0000><b>46</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:28:56 ] (combat) <color=0xffcc0000><b>74</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:28:56 ] (combat) <color=0xffcc0000><b>87</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:28:56 ] (combat) <color=0xff00ffff><b>121</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Hits
+[ 2013.01.31 01:28:56 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:28:56 ] (combat) <color=0xff00ffff><b>8</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:28:56 ] (combat) <color=0xff00ffff><b>8</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:28:56 ] (combat) <color=0xff00ffff><b>10</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:28:56 ] (combat) <color=0xff00ffff><b>130</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Penetrates
+[ 2013.01.31 01:28:57 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:57 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:57 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:57 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:57 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:57 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:57 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:57 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:28:57 ] (combat) <color=0xff00ffff><b>15</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:28:59 ] (combat) <color=0xff00ffff><b>114</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Hits
+[ 2013.01.31 01:29:00 ] (combat) <color=0xff00ffff><b>68</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:00 ] (combat) <color=0xff00ffff><b>11</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:29:00 ] (combat) <color=0xff00ffff><b>20</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:00 ] (combat) <color=0xff00ffff><b>19</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:00 ] (combat) <color=0xff00ffff><b>20</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:01 ] (combat) <color=0xff00ffff><b>13</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:01 ] (combat) <color=0xffcc0000><b>69</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:01 ] (combat) <color=0xffcc0000><b>47</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:01 ] (combat) <color=0xffcc0000><b>93</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:01 ] (combat) <color=0xffcc0000><b>59</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:01 ] (combat) <color=0xffcc0000><b>77</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:01 ] (combat) <color=0xffcc0000><b>34</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:01 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:01 ] (combat) <color=0xffcc0000><b>56</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:02 ] (combat) <color=0xff00ffff><b>64</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:03 ] (combat) <color=0xff00ffff><b>31</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:04 ] (combat) <color=0xff00ffff><b>16</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:04 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:04 ] (combat) <color=0xff00ffff><b>18</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:04 ] (combat) <color=0xff00ffff><b>13</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:05 ] (combat) Your Hobgoblin I misses Awakened Defender completely - Hobgoblin I
+[ 2013.01.31 01:29:06 ] (combat) <color=0xff00ffff><b>119</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Hits
+[ 2013.01.31 01:29:06 ] (combat) <color=0xffcc0000><b>66</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:06 ] (combat) <color=0xffcc0000><b>79</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:06 ] (combat) <color=0xffcc0000><b>91</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:06 ] (combat) <color=0xffcc0000><b>38</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:06 ] (combat) <color=0xffcc0000><b>40</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:06 ] (combat) <color=0xffcc0000><b>63</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:06 ] (combat) <color=0xffcc0000><b>82</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:06 ] (combat) <color=0xffcc0000><b>40</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:06 ] (combat) <color=0xff00ffff><b>101</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Hits
+[ 2013.01.31 01:29:08 ] (combat) <color=0xff00ffff><b>17</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:08 ] (combat) <color=0xff00ffff><b>12</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:08 ] (combat) <color=0xff00ffff><b>16</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:08 ] (combat) <color=0xff00ffff><b>14</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:08 ] (notify) Orbiting Awakened Defender (4000m)
+[ 2013.01.31 01:29:09 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:09 ] (combat) <color=0xff00ffff><b>126</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Penetrates
+[ 2013.01.31 01:29:09 ] (combat) <color=0xff00ffff><b>61</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:11 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:11 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:11 ] (combat) <color=0xffcc0000><b>34</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:11 ] (combat) <color=0xffcc0000><b>59</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:11 ] (combat) <color=0xffcc0000><b>50</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:11 ] (combat) <color=0xffcc0000><b>85</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:11 ] (combat) <color=0xffcc0000><b>55</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:11 ] (combat) <color=0xffcc0000><b>59</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:12 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:12 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:12 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:12 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:12 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:12 ] (combat) <color=0xff00ffff><b>54</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:13 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:13 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:13 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:13 ] (combat) <color=0xff00ffff><b>23</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:13 ] (combat) <color=0xff00ffff><b>22</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:13 ] (combat) <color=0xff00ffff><b>11</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:29:13 ] (combat) <color=0xff00ffff><b>22</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:13 ] (combat) <color=0xff00ffff><b>91</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Glances Off
+[ 2013.01.31 01:29:13 ] (combat) <color=0xff00ffff><b>17</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:16 ] (combat) <color=0xff00ffff><b>67</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:16 ] (combat) <color=0xff00ffff><b>58</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:16 ] (combat) <color=0xffcc0000><b>79</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:16 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:16 ] (combat) <color=0xffcc0000><b>40</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:16 ] (combat) <color=0xffcc0000><b>72</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:16 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:16 ] (combat) <color=0xffcc0000><b>41</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:16 ] (combat) <color=0xffcc0000><b>53</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:16 ] (combat) <color=0xffcc0000><b>52</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:17 ] (combat) <color=0xff00ffff><b>13</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:17 ] (combat) <color=0xff00ffff><b>11</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:29:17 ] (combat) <color=0xff00ffff><b>16</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:17 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:17 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:18 ] (notify) You are already managing 6 targets, as many as your ship's electronics are capable of.
+[ 2013.01.31 01:29:18 ] (notify) You are already managing 6 targets, as many as your ship's electronics are capable of.
+[ 2013.01.31 01:29:19 ] (notify) You are already managing 6 targets, as many as your ship's electronics are capable of.
+[ 2013.01.31 01:29:19 ] (combat) <color=0xff00ffff><b>87</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Glances Off
+[ 2013.01.31 01:29:19 ] (combat) <color=0xff00ffff><b>90</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Glances Off
+[ 2013.01.31 01:29:21 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:21 ] (combat) <color=0xff00ffff><b>16</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:21 ] (combat) <color=0xff00ffff><b>17</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:21 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:21 ] (combat) <color=0xff00ffff><b>8</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:21 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:21 ] (combat) <color=0xffcc0000><b>40</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:21 ] (combat) <color=0xffcc0000><b>81</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:21 ] (combat) <color=0xffcc0000><b>72</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:21 ] (combat) <color=0xffcc0000><b>54</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:21 ] (combat) <color=0xffcc0000><b>37</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:21 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:21 ] (combat) <color=0xffcc0000><b>43</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:22 ] (combat) <color=0xff00ffff><b>58</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:22 ] (combat) <color=0xff00ffff><b>108</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Hits
+[ 2013.01.31 01:29:25 ] (combat) <color=0xff00ffff><b>18</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:25 ] (combat) <color=0xff00ffff><b>19</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:25 ] (combat) <color=0xff00ffff><b>19</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:25 ] (combat) <color=0xff00ffff><b>19</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:25 ] (combat) <color=0xff00ffff><b>16</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:25 ] (combat) <color=0xff00ffff><b>35</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:25 ] (combat) <color=0xff00ffff><b>71</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:26 ] (combat) <color=0xffcc0000><b>90</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:26 ] (combat) <color=0xffcc0000><b>82</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:26 ] (combat) <color=0xffcc0000><b>83</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:26 ] (combat) <color=0xffcc0000><b>77</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:26 ] (combat) <color=0xffcc0000><b>49</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:26 ] (combat) <color=0xffcc0000><b>94</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:26 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:26 ] (combat) <color=0xffcc0000><b>75</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:28 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:28 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:28 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:28 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:28 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:28 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:28 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:28 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:29 ] (combat) <color=0xff00ffff><b>39</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:29 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:29 ] (combat) <color=0xff00ffff><b>47</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Wrecks
+[ 2013.01.31 01:29:29 ] (combat) <color=0xff00ffff><b>19</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:29 ] (combat) <color=0xff00ffff><b>22</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:29 ] (combat) <color=0xff00ffff><b>43</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:29 ] (combat) <color=0xff00ffff><b>12</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:31 ] (combat) <color=0xffcc0000><b>36</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:31 ] (combat) <color=0xffcc0000><b>47</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:31 ] (combat) <color=0xffcc0000><b>35</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:31 ] (combat) <color=0xffcc0000><b>82</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:31 ] (combat) <color=0xffcc0000><b>91</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:31 ] (combat) <color=0xffcc0000><b>67</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:31 ] (combat) <color=0xffcc0000><b>70</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:31 ] (combat) <color=0xffcc0000><b>74</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:32 ] (combat) Your group of 425mm Medium Prototype Automatic Cannon misses Awakened Defender completely - 425mm Medium Prototype Automatic Cannon
+[ 2013.01.31 01:29:32 ] (combat) <color=0xff00ffff><b>68</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:33 ] (combat) <color=0xff00ffff><b>12</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:33 ] (combat) <color=0xff00ffff><b>18</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:33 ] (combat) <color=0xff00ffff><b>16</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:33 ] (combat) <color=0xff00ffff><b>15</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:33 ] (combat) <color=0xff00ffff><b>17</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:35 ] (combat) <color=0xff00ffff><b>73</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:35 ] (combat) <color=0xff00ffff><b>33</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:36 ] (combat) <color=0xffcc0000><b>46</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:36 ] (combat) <color=0xffcc0000><b>84</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:36 ] (combat) <color=0xffcc0000><b>80</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:36 ] (combat) <color=0xffcc0000><b>72</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:36 ] (combat) <color=0xffcc0000><b>87</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:36 ] (combat) <color=0xffcc0000><b>63</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:36 ] (combat) <color=0xffcc0000><b>53</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:36 ] (combat) <color=0xffcc0000><b>196</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Wrecks
+[ 2013.01.31 01:29:37 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:37 ] (combat) <color=0xff00ffff><b>47</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Wrecks
+[ 2013.01.31 01:29:37 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:37 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:37 ] (combat) <color=0xff00ffff><b>10</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:29:38 ] (combat) <color=0xff00ffff><b>65</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:38 ] (combat) <color=0xff00ffff><b>88</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Glances Off
+[ 2013.01.31 01:29:41 ] (combat) <color=0xff00ffff><b>13</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:41 ] (combat) <color=0xff00ffff><b>20</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:41 ] (combat) <color=0xff00ffff><b>15</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:41 ] (combat) <color=0xff00ffff><b>15</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:41 ] (combat) <color=0xff00ffff><b>13</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:41 ] (combat) <color=0xffcc0000><b>79</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:41 ] (combat) <color=0xffcc0000><b>38</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:41 ] (combat) <color=0xffcc0000><b>46</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:41 ] (combat) <color=0xffcc0000><b>42</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:41 ] (combat) <color=0xffcc0000><b>40</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:41 ] (combat) <color=0xffcc0000><b>59</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:41 ] (combat) <color=0xffcc0000><b>48</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:41 ] (combat) <color=0xffcc0000><b>90</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:41 ] (combat) <color=0xff00ffff><b>27</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:42 ] (combat) <color=0xff00ffff><b>31</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:43 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:43 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:43 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:43 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:43 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:44 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:44 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:44 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:45 ] (combat) Your group of 425mm Medium Prototype Automatic Cannon misses Awakened Defender completely - 425mm Medium Prototype Automatic Cannon
+[ 2013.01.31 01:29:45 ] (combat) Your group of 425mm Medium Prototype Automatic Cannon misses Awakened Defender completely - 425mm Medium Prototype Automatic Cannon
+[ 2013.01.31 01:29:45 ] (combat) <color=0xff00ffff><b>12</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:45 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:45 ] (combat) <color=0xff00ffff><b>20</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:45 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:45 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:46 ] (combat) <color=0xffcc0000><b>84</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:46 ] (combat) <color=0xffcc0000><b>45</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:46 ] (combat) <color=0xffcc0000><b>50</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:29:46 ] (combat) <color=0xffcc0000><b>78</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:46 ] (combat) <color=0xffcc0000><b>88</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:46 ] (combat) <color=0xffcc0000><b>42</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:46 ] (combat) <color=0xffcc0000><b>68</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:46 ] (combat) <color=0xffcc0000><b>84</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:48 ] (combat) <color=0xff00ffff><b>84</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Glances Off
+[ 2013.01.31 01:29:48 ] (combat) <color=0xff00ffff><b>55</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:49 ] (combat) <color=0xff00ffff><b>14</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:49 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:49 ] (combat) <color=0xff00ffff><b>15</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:49 ] (combat) <color=0xff00ffff><b>20</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:49 ] (combat) <color=0xff00ffff><b>14</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:51 ] (combat) Your group of 425mm Medium Prototype Automatic Cannon misses Awakened Defender completely - 425mm Medium Prototype Automatic Cannon
+[ 2013.01.31 01:29:51 ] (combat) <color=0xffcc0000><b>84</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:51 ] (combat) <color=0xffcc0000><b>45</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:51 ] (combat) <color=0xffcc0000><b>79</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:51 ] (combat) <color=0xffcc0000><b>95</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:51 ] (combat) <color=0xffcc0000><b>82</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:51 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:51 ] (combat) <color=0xffcc0000><b>45</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:51 ] (combat) <color=0xffcc0000><b>37</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:51 ] (combat) <color=0xff00ffff><b>52</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:53 ] (combat) <color=0xff00ffff><b>12</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:53 ] (combat) <color=0xff00ffff><b>8</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:29:53 ] (combat) <color=0xff00ffff><b>17</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:53 ] (combat) <color=0xff00ffff><b>12</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:29:53 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:54 ] (combat) <color=0xff00ffff><b>29</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:55 ] (combat) Your group of 425mm Medium Prototype Automatic Cannon misses Awakened Defender completely - 425mm Medium Prototype Automatic Cannon
+[ 2013.01.31 01:29:56 ] (combat) <color=0xffcc0000><b>117</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:56 ] (combat) <color=0xffcc0000><b>51</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:29:56 ] (combat) <color=0xffcc0000><b>119</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:56 ] (combat) <color=0xffcc0000><b>121</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:56 ] (combat) <color=0xffcc0000><b>116</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:29:56 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:56 ] (combat) <color=0xffcc0000><b>95</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:29:56 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:29:57 ] (combat) <color=0xff00ffff><b>20</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:57 ] (combat) <color=0xff00ffff><b>18</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:29:57 ] (combat) <color=0xff00ffff><b>10</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:29:57 ] (combat) <color=0xff00ffff><b>22</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:57 ] (combat) <color=0xff00ffff><b>20</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:29:58 ] (combat) <color=0xff00ffff><b>52</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:29:58 ] (combat) Your group of 425mm Medium Prototype Automatic Cannon misses Awakened Defender completely - 425mm Medium Prototype Automatic Cannon
+[ 2013.01.31 01:29:59 ] (combat) <color=0xffcc0000><b>75</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:59 ] (combat) <color=0xffcc0000><b>75</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:59 ] (combat) <color=0xffcc0000><b>75</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:59 ] (combat) <color=0xffcc0000><b>75</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:59 ] (combat) <color=0xffcc0000><b>149</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:59 ] (combat) <color=0xffcc0000><b>149</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:59 ] (combat) <color=0xffcc0000><b>149</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:29:59 ] (combat) <color=0xffcc0000><b>149</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:30:01 ] (combat) <color=0xff00ffff><b>124</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Penetrates
+[ 2013.01.31 01:30:01 ] (combat) <color=0xff00ffff><b>15</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:30:01 ] (combat) <color=0xff00ffff><b>16</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:30:01 ] (combat) <color=0xff00ffff><b>13</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:30:01 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:30:01 ] (combat) <color=0xff00ffff><b>10</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:30:01 ] (combat) Your group of 425mm Medium Prototype Automatic Cannon misses Awakened Defender completely - 425mm Medium Prototype Automatic Cannon
+[ 2013.01.31 01:30:01 ] (combat) <color=0xffcc0000><b>58</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:30:01 ] (combat) <color=0xffcc0000><b>50</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:30:01 ] (combat) <color=0xffcc0000><b>116</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:30:01 ] (combat) <color=0xffcc0000><b>76</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:01 ] (combat) <color=0xffcc0000><b>82</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:01 ] (combat) <color=0xffcc0000><b>103</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:30:01 ] (combat) <color=0xffcc0000><b>93</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:01 ] (combat) <color=0xffcc0000><b>99</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:04 ] (combat) <color=0xff00ffff><b>22</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:04 ] (combat) <color=0xff00ffff><b>29</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:05 ] (combat) <color=0xff00ffff><b>11</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:30:05 ] (combat) <color=0xff00ffff><b>22</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:30:05 ] (combat) <color=0xff00ffff><b>8</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:30:05 ] (combat) <color=0xff00ffff><b>13</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:30:05 ] (combat) <color=0xff00ffff><b>19</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:30:06 ] (combat) <color=0xffcc0000><b>135</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:30:06 ] (combat) <color=0xffcc0000><b>116</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:06 ] (combat) <color=0xffcc0000><b>129</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:06 ] (combat) <color=0xffcc0000><b>132</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:30:06 ] (combat) <color=0xffcc0000><b>121</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:06 ] (combat) <color=0xffcc0000><b>150</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:30:06 ] (combat) <color=0xffcc0000><b>107</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:06 ] (combat) <color=0xffcc0000><b>93</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:07 ] (combat) <color=0xff00ffff><b>25</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:08 ] (combat) <color=0xff00ffff><b>31</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:09 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:30:09 ] (combat) <color=0xff00ffff><b>20</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:30:09 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:30:09 ] (combat) <color=0xff00ffff><b>18</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:30:09 ] (combat) <color=0xff00ffff><b>13</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:30:11 ] (combat) <color=0xff00ffff><b>52</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:11 ] (combat) <color=0xff00ffff><b>31</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:11 ] (combat) <color=0xffcc0000><b>99</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:11 ] (combat) <color=0xffcc0000><b>110</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:11 ] (combat) <color=0xffcc0000><b>142</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:30:11 ] (combat) <color=0xffcc0000><b>118</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:11 ] (combat) <color=0xffcc0000><b>73</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:30:11 ] (combat) <color=0xffcc0000><b>88</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:11 ] (combat) <color=0xffcc0000><b>111</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:11 ] (combat) <color=0xffcc0000><b>69</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:30:13 ] (combat) <color=0xff00ffff><b>17</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:30:13 ] (combat) <color=0xff00ffff><b>12</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:30:13 ] (combat) <color=0xff00ffff><b>20</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:30:13 ] (combat) <color=0xff00ffff><b>11</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:30:13 ] (combat) <color=0xff00ffff><b>10</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:30:14 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:30:14 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:30:14 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:30:14 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:30:14 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:14 ] (combat) <color=0xff00ffff><b>30</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:15 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:30:15 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:30:15 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:30:15 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:30:16 ] (combat) <color=0xffcc0000><b>102</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:16 ] (combat) <color=0xffcc0000><b>128</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:16 ] (combat) <color=0xffcc0000><b>96</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:16 ] (combat) <color=0xffcc0000><b>83</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:16 ] (combat) <color=0xffcc0000><b>124</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:16 ] (combat) <color=0xffcc0000><b>152</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:30:16 ] (combat) <color=0xffcc0000><b>137</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:30:16 ] (combat) <color=0xffcc0000><b>131</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:17 ] (combat) <color=0xff00ffff><b>55</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:17 ] (combat) <color=0xff00ffff><b>12</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:30:17 ] (combat) <color=0xff00ffff><b>19</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:30:17 ] (combat) <color=0xff00ffff><b>15</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:30:17 ] (combat) <color=0xff00ffff><b>10</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:30:17 ] (combat) <color=0xff00ffff><b>48</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:17 ] (combat) <color=0xff00ffff><b>12</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:30:20 ] (combat) <color=0xff00ffff><b>31</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:20 ] (combat) <color=0xff00ffff><b>29</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:21 ] (combat) <color=0xff00ffff><b>15</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Hits
+[ 2013.01.31 01:30:21 ] (combat) <color=0xff00ffff><b>23</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:30:21 ] (combat) Your Hobgoblin I misses Awakened Defender completely - Hobgoblin I
+[ 2013.01.31 01:30:21 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:30:21 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:30:21 ] (combat) <color=0xffcc0000><b>128</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:21 ] (combat) <color=0xffcc0000><b>121</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:21 ] (combat) <color=0xffcc0000><b>101</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:21 ] (combat) <color=0xffcc0000><b>129</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:21 ] (combat) <color=0xffcc0000><b>101</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:21 ] (combat) <color=0xffcc0000><b>149</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:30:21 ] (combat) <color=0xffcc0000><b>147</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:30:21 ] (combat) <color=0xffcc0000><b>102</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:23 ] (combat) <color=0xff00ffff><b>24</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:30:24 ] (combat) Your group of 425mm Medium Prototype Automatic Cannon misses Awakened Defender completely - 425mm Medium Prototype Automatic Cannon
+[ 2013.01.31 01:30:25 ] (combat) <color=0xff00ffff><b>23</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:30:25 ] (combat) <color=0xff00ffff><b>11</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Glances Off
+[ 2013.01.31 01:30:25 ] (combat) <color=0xff00ffff><b>9</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Grazes
+[ 2013.01.31 01:30:25 ] (combat) <color=0xff00ffff><b>22</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Smashes
+[ 2013.01.31 01:30:25 ] (combat) <color=0xff00ffff><b>19</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hobgoblin I - Penetrates
+[ 2013.01.31 01:30:26 ] (notify) All drones returning to drone bay
+[ 2013.01.31 01:30:27 ] (combat) <color=0xffcc0000><b>114</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:27 ] (combat) <color=0xffcc0000><b>132</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:27 ] (combat) <color=0xffcc0000><b>102</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:30:27 ] (combat) <color=0xffcc0000><b>119</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:27 ] (combat) <color=0xffcc0000><b>132</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:27 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:30:27 ] (combat) <color=0xffcc0000><b>115</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:30:27 ] (combat) <color=0xffcc0000><b>56</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:30:27 ] (combat) Your group of 425mm Medium Prototype Automatic Cannon misses Awakened Defender completely - 425mm Medium Prototype Automatic Cannon
+[ 2013.01.31 01:30:27 ] (combat) <color=0xff00ffff><b>28</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - 425mm Medium Prototype Automatic Cannon - Grazes
+[ 2013.01.31 01:32:05 ] (notify) Attempting to reconnect with nearby drones.
+[ 2013.01.31 01:32:05 ] (notify) You cannot do that while warping.
+[ 2013.01.31 01:32:07 ] (notify) Interference from the warp you are doing is preventing your sensors from getting a target lock on Awakened Defender.
+[ 2013.01.31 01:32:07 ] (notify) Interference from the warp you are doing is preventing your sensors from getting a target lock on Awakened Defender.
+[ 2013.01.31 01:32:11 ] (combat) <color=0xffcc0000><b>111</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:11 ] (combat) <color=0xffcc0000><b>70</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:11 ] (combat) <color=0xffcc0000><b>81</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:11 ] (combat) <color=0xffcc0000><b>134</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:11 ] (combat) <color=0xffcc0000><b>95</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:11 ] (combat) <color=0xffcc0000><b>149</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:11 ] (combat) <color=0xffcc0000><b>99</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:11 ] (combat) <color=0xffcc0000><b>107</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:14 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:14 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:14 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:15 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:15 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:15 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:15 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:16 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:16 ] (combat) <color=0xffcc0000><b>136</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:16 ] (combat) <color=0xffcc0000><b>121</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:16 ] (combat) <color=0xffcc0000><b>136</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:16 ] (combat) <color=0xffcc0000><b>152</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:17 ] (combat) <color=0xffcc0000><b>149</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:17 ] (combat) <color=0xffcc0000><b>89</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:17 ] (combat) <color=0xffcc0000><b>90</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:17 ] (combat) <color=0xffcc0000><b>127</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:21 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:32:21 ] (combat) <color=0xffcc0000><b>148</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:21 ] (combat) <color=0xffcc0000><b>98</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:21 ] (combat) <color=0xffcc0000><b>83</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:22 ] (notify) Attempting to reconnect with nearby drones.
+[ 2013.01.31 01:32:22 ] (combat) <color=0xffcc0000><b>74</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:22 ] (combat) <color=0xffcc0000><b>112</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:22 ] (combat) <color=0xffcc0000><b>101</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:22 ] (combat) <color=0xffcc0000><b>155</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:22 ] (info) You can't do this quite so fast. Please wait 43 seconds before trying again.
+[ 2013.01.31 01:32:26 ] (combat) <color=0xffcc0000><b>139</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:26 ] (combat) <color=0xffcc0000><b>71</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:26 ] (combat) <color=0xffcc0000><b>141</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:26 ] (combat) <color=0xffcc0000><b>102</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:27 ] (combat) <color=0xffcc0000><b>84</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:27 ] (combat) <color=0xffcc0000><b>77</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:27 ] (combat) <color=0xffcc0000><b>152</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:27 ] (combat) <color=0xffcc0000><b>104</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:28 ] (notify) Zelda Fera from the EVE University corporation wants to join your fleet
+[ 2013.01.31 01:32:29 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:29 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:29 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:30 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:30 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:31 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:31 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:31 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:32 ] (combat) <color=0xffcc0000><b>75</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:32 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:32:32 ] (combat) <color=0xffcc0000><b>80</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:32 ] (combat) <color=0xffcc0000><b>67</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:32 ] (combat) <color=0xffcc0000><b>114</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:32 ] (combat) <color=0xffcc0000><b>136</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:32 ] (combat) <color=0xffcc0000><b>77</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:32 ] (combat) <color=0xffcc0000><b>154</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:36 ] (notify) Attempting to reconnect with nearby drones.
+[ 2013.01.31 01:32:36 ] (info) You can't do this quite so fast. Please wait 28 seconds before trying again.
+[ 2013.01.31 01:32:37 ] (combat) <color=0xffcc0000><b>59</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:32:37 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:37 ] (combat) <color=0xffcc0000><b>95</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:37 ] (combat) <color=0xffcc0000><b>108</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:37 ] (combat) <color=0xffcc0000><b>149</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:37 ] (combat) <color=0xffcc0000><b>148</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:37 ] (combat) <color=0xffcc0000><b>132</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:37 ] (combat) <color=0xffcc0000><b>119</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:42 ] (combat) <color=0xffcc0000><b>91</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:42 ] (combat) <color=0xffcc0000><b>55</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:32:42 ] (combat) <color=0xffcc0000><b>75</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:42 ] (combat) <color=0xffcc0000><b>140</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:42 ] (combat) <color=0xffcc0000><b>111</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:42 ] (combat) <color=0xffcc0000><b>78</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:42 ] (combat) <color=0xffcc0000><b>114</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:42 ] (combat) <color=0xffcc0000><b>116</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:45 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:45 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:45 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:45 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:46 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:46 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:46 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:46 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:32:47 ] (combat) <color=0xffcc0000><b>62</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:32:47 ] (combat) <color=0xffcc0000><b>76</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:47 ] (combat) <color=0xffcc0000><b>112</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:47 ] (combat) <color=0xffcc0000><b>55</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:32:47 ] (combat) <color=0xffcc0000><b>94</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:47 ] (combat) <color=0xffcc0000><b>95</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:47 ] (combat) <color=0xffcc0000><b>68</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:47 ] (combat) <color=0xffcc0000><b>78</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:52 ] (combat) <color=0xffcc0000><b>105</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:52 ] (combat) <color=0xffcc0000><b>143</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:52 ] (combat) <color=0xffcc0000><b>65</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:32:52 ] (combat) <color=0xffcc0000><b>67</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:52 ] (combat) <color=0xffcc0000><b>93</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:52 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:52 ] (combat) <color=0xffcc0000><b>82</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:52 ] (combat) <color=0xffcc0000><b>95</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:57 ] (combat) <color=0xffcc0000><b>83</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:57 ] (combat) <color=0xffcc0000><b>112</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:57 ] (combat) <color=0xffcc0000><b>106</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:57 ] (combat) <color=0xffcc0000><b>128</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:32:57 ] (combat) <color=0xffcc0000><b>89</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:32:57 ] (combat) <color=0xffcc0000><b>155</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:32:57 ] (combat) <color=0xffcc0000><b>73</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:32:57 ] (combat) <color=0xffcc0000><b>147</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:33:00 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:00 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:00 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:00 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:02 ] (combat) <color=0xffcc0000><b>99</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:33:02 ] (combat) <color=0xffcc0000><b>115</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:02 ] (combat) <color=0xffcc0000><b>110</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:02 ] (combat) <color=0xffcc0000><b>109</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:02 ] (combat) <color=0xffcc0000><b>71</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:33:02 ] (combat) <color=0xffcc0000><b>55</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:33:02 ] (combat) <color=0xffcc0000><b>85</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:33:02 ] (combat) <color=0xffcc0000><b>133</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:33:03 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:03 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:03 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:03 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:07 ] (combat) <color=0xffcc0000><b>76</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:33:07 ] (combat) <color=0xffcc0000><b>57</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:33:07 ] (combat) <color=0xffcc0000><b>156</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:33:07 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:33:07 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:07 ] (combat) <color=0xffcc0000><b>138</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:33:07 ] (combat) <color=0xffcc0000><b>144</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:33:07 ] (combat) <color=0xffcc0000><b>90</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:33:08 ] (notify) Attempting to reconnect with nearby drones.
+[ 2013.01.31 01:33:12 ] (combat) <color=0xffcc0000><b>103</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:33:12 ] (combat) <color=0xffcc0000><b>90</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:33:12 ] (combat) <color=0xffcc0000><b>139</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:33:12 ] (combat) <color=0xffcc0000><b>156</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:33:12 ] (combat) <color=0xffcc0000><b>72</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:33:12 ] (combat) <color=0xffcc0000><b>91</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:33:12 ] (combat) <color=0xffcc0000><b>123</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:12 ] (combat) <color=0xffcc0000><b>66</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2013.01.31 01:33:15 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:15 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:15 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:15 ] (combat) <color=0xffcc0000><b>194</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:17 ] (combat) <color=0xffcc0000><b>118</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:17 ] (combat) <color=0xffcc0000><b>106</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:33:17 ] (combat) <color=0xffcc0000><b>150</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:33:17 ] (combat) <color=0xffcc0000><b>114</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:17 ] (combat) <color=0xffcc0000><b>112</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:17 ] (combat) <color=0xffcc0000><b>145</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:33:17 ] (combat) <color=0xffcc0000><b>124</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:17 ] (combat) <color=0xffcc0000><b>136</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Smashes
+[ 2013.01.31 01:33:18 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:18 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:18 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:18 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Praedormitan Missile - Hits
+[ 2013.01.31 01:33:19 ] (notify) All drones returning to drone bay
+[ 2013.01.31 01:33:23 ] (notify) Adaptive Invulnerability Field II requires 32.0 units of charge. The capacitor has only 0.0 units.
+[ 2013.01.31 01:33:23 ] (notify) Adaptive Invulnerability Field II requires 32.0 units of charge. The capacitor has only 0.0 units.
+[ 2013.01.31 01:33:29 ] (combat) <color=0xffcc0000><b>119</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:29 ] (combat) <color=0xffcc0000><b>65</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:33:29 ] (combat) <color=0xffcc0000><b>121</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2013.01.31 01:33:29 ] (combat) <color=0xffcc0000><b>54</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:33:29 ] (combat) <color=0xffcc0000><b>55</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Grazes
+[ 2013.01.31 01:33:29 ] (combat) <color=0xffcc0000><b>85</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:33:29 ] (combat) <color=0xffcc0000><b>79</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Defender</b><font size=10><color=0x77ffffff> - Hits
+[ 2013.01.31 01:33:29 ] (combat) <color=0xffcc0000><b>111</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Awakened Upholder</b><font size=10><color=0x77ffffff> - Penetrates

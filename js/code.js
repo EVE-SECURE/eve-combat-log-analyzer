@@ -83,7 +83,7 @@ var logAnalyzer = {
   },
   initContents: function() {
     $("#page").append('<div id="contents"></div>');
-    $("#contents").append('<div id="damageGraph"></div><pre id="unidentified"></pre><p id="textGlobal"></p><p id="textDealt"></p><p id="textReceived"></p>');
+    $("#contents").append('<div id="damageGraph"></div><pre id="unidentified"></pre><p id="textGlobal"></p><p id="textTable"></p>');
   },
   handleInput: function(e) {
     var files;
@@ -96,7 +96,7 @@ var logAnalyzer = {
       files = e.target.files;
     }
     var output = [];
-    $("#fileContents, #textGlobal, #textDealt, #textReceived, #unidentified").html('');
+    $("#fileContents, #textGlobal, #textTable, #unidentified").html('');
     $("#damageGraph").html('').hide();
     logAnalyzer.inputData = [];
     logAnalyzer.logEntries = [];
@@ -137,71 +137,138 @@ var logAnalyzer = {
 
       var text = line.substr(33);
 
-      var missed = true;
-      if(text[0] == '<') {
-        missed = false;
-        text = text.substr(18);
+      // Start of the new parsing for the log file changes in Retribution.
+      // I place no restrictions on its use.  -- Professor Latha'Serevi, Eve Uni.
+
+      // these variables go into the output data
+      var received;
+      var missed;
+      var hitType;
+      var attacker_name='';  // enemy ship or my weapon
+      var attacker_weapon;
+      var attacked='';
+      var damageAmount = 0;
+
+      // remove all font formatting, find ' - ' separators
+      var formatting_start = text.search(/</);
+      while ( formatting_start != -1 ) {
+        var formatting_end = text.search(/>/);
+        // Are we somehow missing a formatting end tag?
+        if (formatting_end == -1) {
+          console.log("line 158: formatting_end == " + formatting_end);
+          return; // surprise, bail
+        }
+        text = text.substr(0, formatting_start) + text.substr(formatting_end + 1);
+        formatting_start = text.search(/</);
+      }
+      var first_separator = text.search(/ - /);
+      var second_separator_offset = -1;
+      if (first_separator != -1) {
+        second_separator_offset = text.substr(first_separator + 3).search(/ - /);
+      }
+      
+      // Are we being scrambled instead?
+      // Warp scramble attempt from  (Vexor)Annaka Hansen  <IVY> to  (Thorax)Jim Womack  <SSC>
+      if (text.search(/Warp scramble attempt/) != -1) {
+        return; // discard
       }
 
-      var received = true;
-      if(text.substr(0, 5) == 'Your ') {
+      // Check if it's a miss
+      // Sleepless Patroller misses you completely.
+      var misses_pos = text.search(/ misses /);
+      
+      // Check if it's a received miss
+      if (misses_pos != -1 && text.substr(misses_pos + 8, 3) == 'you') {
+        received = true;
+        missed = true;
+        var attacker_name = text.substr(0, misses_pos);
+        // Hammerhead II belonging to Rhavas misses you completely - Hammerhead II
+        var belonging_to_pos = attacker_name.search(/ belonging to /);
+        if (belonging_to_pos >= 0) {
+          attacker_name = attacker_name.substr(belonging_to_pos + 14);
+        }
+        
+      // Check if it's our miss
+      } else if (misses_pos != -1) {
+        // Your Valkyrie II misses Sleepless Watchman completely - Valkyrie II
+        // Your group of XYZ misses Sleepless Escort completely - XYZ
         received = false;
-      }
-
-      var hitType = null;
-      var hitTypeIndex = -1;
-      var hitTypes;
-      if(!received) {
-        hitTypes = ['perfectly strikes', 'places an excellent hit on', 'barely scratches', 'is well aimed at', 'lightly hits', 'hits', 'glances off', 'barely misses', 'misses'];
+        missed = true;
+        // Are we missing first separator or do we somehow have two of them? Should only have 1
+        if (first_separator == -1 || second_separator_offset != -1) {
+          console.log("line 191: first_separator == " + first_separator + " || second_separator_offset != " + second_separator_offset);
+          return;  // surprise, bail
+        }
+        attacker_name = text.substr(first_separator + 3); // my weapon always occurs twice, use 2nd one
+        
+        var completely_pos = text.search(/ completely /);
+        // Our own miss line should always have a word "completely" and it should be the last word in the first part of text
+        if (completely_pos == -1 || completely_pos < misses_pos) {
+          console.log("line 197: completely_pos == " + completely_pos + " || completely_pos: " + completely_pos + " < misses_pos: " + misses_pos);
+          return;  // surprise, bail
+        }
+        attacked = text.substr(misses_pos + 8, completely_pos - misses_pos - 8);
+        
+        // It's a hit!
       } else {
-        hitTypes = ['strikes you perfectly', 'places an excellent hit on', 'barely scratches', 'aims well at', 'lightly hits', 'heavily hits', 'hits', 'lands a hit on you which glances off', 'barely misses', 'misses'];
-      }
-      for(var hitTypeRe in hitTypes) {
-        hitTypeIndex = text.search(new RegExp(hitTypes[hitTypeRe], "i"));
-        if(hitTypeIndex != -1) {
-          hitType = hitTypes[hitTypeRe];
-          break;
+        missed = false;
+        // Are we missing first separator?
+        if (first_separator == -1) {
+          console.log("line 204: first_separator == " + first_separator);
+          return;  // surprise, bail
+        }
+        var from_pos = text.search(/ from /);
+        var to_pos = text.search(/ to /);
+        // We were hit!
+        if (from_pos != -1 && (to_pos == -1 || to_pos > from_pos)) {
+          received = true;
+          damageAmount = text.substr(0, from_pos);
+          attacker_name = text.substr(from_pos + 6, first_separator - from_pos - 6);
+          if (second_separator_offset == -1) {
+            // 64 from Sleepless Escort - Smashes
+            attacker_weapon = 'unknown';
+            hitType = text.substr(first_separator + 3);
+          } else {
+            // 515 from Sleepless Escort - Phantasmata Missile - Hits
+            attacker_weapon = text.substr(first_separator + 3, second_separator_offset);
+            hitType = text.substr(first_separator + 3 + second_separator_offset + 3);
+          }
+        // Someone else was hit!
+        } else {
+          // 20 to Sleepless Watchman - Valkyrie II - Glances Off
+          received = false;
+          // Are we missing both "from" and "to" or do we only have one separator for a "to" line?
+          if (to_pos == -1 || (from_pos != -1 && from_pos < to_pos) || second_separator_offset == -1) {
+            console.log("line 226: to_pos == " + to_pos + " || (from_pos != " + from_pos + " && from_pos: " + from_pos + " < to_pos: " + to_pos + ") || second_separator_offset == " + second_separator_offset);
+            return;  // surprise, bail
+          }
+          damageAmount = text.substr(0, to_pos);
+          attacked = text.substr(to_pos + 4, first_separator - to_pos - 4);
+          attacker_name = text.substr(first_separator + 3, second_separator_offset);
+          hitType = text.substr(first_separator + 3 + second_separator_offset + 3);
         }
       }
-      var attacker_name = text.substr(0, hitTypeIndex-1);
-      if(!received)
-        attacker_name = attacker_name.substr(5);
-      var attacker_weapon = 'unknown';
-      var attacker_weapon_pos = text.search(/belonging to/);
-      if(attacker_weapon_pos != -1) {
-        attacker_weapon = attacker_name.substr(0, attacker_weapon_pos-1);
-        attacker_name = attacker_name.substr(attacker_weapon_pos+13);
+      // fix for PVP enemy names with corp and ship type as below, normalize to name alone
+      // 21 to Kulper[FCFTW](Thorax) - Limited Electron Blaster I - Grazes
+      var square_bracket_pos = attacked.indexOf('[');
+      if (square_bracket_pos > 1) {
+        attacked = attacked.substr(0, square_bracket_pos);
+      }
+      square_bracket_pos = attacker_name.indexOf('[');
+      if (square_bracket_pos > 1) {
+        attacker_name = attacker_name.substr(0, square_bracket_pos);
       }
 
-      if(hitTypeIndex == -1) {
-        $("#unidentified").appendText(line+"\n");
-        return;
-      }
+      // end of Professor Latha'Serevi's new parsing for Retribution
 
-      var damageSeparatorPos = text.lastIndexOf(",");
-      var damagePart = text.slice(damageSeparatorPos + 2, -8);
-      var damageAction = damagePart.slice(0, damagePart.lastIndexOf(' '));
-      var damageAmount = 0;
-      if(!missed)
-        damageAmount = damagePart.slice(damagePart.lastIndexOf(' ') + 1);
-
-      var attacked = '';
-      if(!received) {
-        attacked = text.slice(hitTypeIndex + hitType.length + 1, damageSeparatorPos);
-      }
-      if(missed && !received)
-        if(attacked.slice(-10) == "completely")
-          attacked = attacked.slice(0, -11);
-
-      data.date = new Date(line.substr(2, 4), line.substr(7, 2), line.substr(10, 2), line.substr(13, 2), line.substr(16, 2), line.substr(19, 2));
+      data.date = new Date(parseInt(line.substr(2, 4)), parseInt(line.substr(7, 2)), parseInt(line.substr(10, 2)), parseInt(line.substr(13, 2)), parseInt(line.substr(16, 2)), parseInt(line.substr(19, 2)));
       data.received = received;
       data.missed = missed;
       data.hitType = hitType;
       data.attacker_name = attacker_name;
       data.attacker_weapon = attacker_weapon;
       data.attacked = attacked;
-      data.damageAction = damageAction;
-      data.damageAmount = parseFloat(damageAmount);
+      data.damageAmount = parseInt(damageAmount);
       logAnalyzer.inputData.push(data);
     });
   },
@@ -225,7 +292,6 @@ var logAnalyzer = {
     logAnalyzer.firstTimestamp = logAnalyzer.inputData[0].date.getTime() / 1000;
     logAnalyzer.lastTimestamp = logAnalyzer.inputData[logAnalyzer.inputData.length - 1].date.getTime() / 1000;
     jQuery.each(logAnalyzer.inputData, function(index, line) {
-      //var dateString = line.date.getFullYear() + "." + pad(line.date.getMonth() + 1) + "." + pad(line.date.getDate()) + " " + pad(line.date.getHours()) + ":" + pad(line.date.getMinutes()) + ":" + pad(line.date.getSeconds());
       if(line.received) {
         if(logAnalyzer.statsData.received[line.attacker_name] === undefined)
           logAnalyzer.statsData.received[line.attacker_name] = {name: line.attacker_name,damage: 0, shots: 0, missed: 0};
@@ -242,10 +308,8 @@ var logAnalyzer = {
         logAnalyzer.timesShotReceived++;
         if(line.missed) {
           logAnalyzer.timesMissedReceived++;
-          //outputDebug += dateString + " " + line.attacker_name + " with " + line.attacker_weapon + " " + line.hitType +" you completely.\n";
         } else {
           logAnalyzer.totalDamageReceived += parseFloat(line.damageAmount);
-          //outputDebug += dateString + " " + line.attacker_name + " with " + line.attacker_weapon + " " + line.hitType +" you, " + line.damageAction + " " + line.damageAmount + " damage.\n";
         }
       } else {
         if(logAnalyzer.statsData.dealt[line.attacker_name] === undefined)
@@ -265,10 +329,8 @@ var logAnalyzer = {
         logAnalyzer.timesShotTarget++;
         if(line.missed) {
           logAnalyzer.timesMissedTarget++;
-          //outputDebug += dateString + " Your " + line.attacker_name + " " + line.hitType +" " + line.attacked + " completely.\n";
         } else {
           logAnalyzer.totalDamageDealt += parseFloat(line.damageAmount);
-          //outputDebug += dateString + " Your " + line.attacker_name + " " + line.hitType +" " + line.attacked + ", " + line.damageAction + " " + line.damageAmount + " damage.\n";
         }
       }
     });
@@ -278,11 +340,19 @@ var logAnalyzer = {
 
     $("#textGlobal").append("Hit target " + (logAnalyzer.timesShotTarget - logAnalyzer.timesMissedTarget) + " times<br>");
     $("#textGlobal").append("Missed target " + logAnalyzer.timesMissedTarget + " times<br>");
-    $("#textGlobal").append("Hit percentage " + (100 - Math.round(logAnalyzer.timesMissedTarget / logAnalyzer.timesShotTarget * 100)) + "%<br>");
+    var hitPercentage = 0;
+    if(logAnalyzer.timesShotTarget > 0) {
+      hitPercentage = 100 - Math.round(logAnalyzer.timesMissedTarget / logAnalyzer.timesShotTarget * 100);
+    }
+    $("#textGlobal").append("Hit percentage " + hitPercentage + "%<br>");
     $("#textGlobal").append("Total damage dealt: " + (Math.round(logAnalyzer.totalDamageDealt*10)/10) + "<br>");
+    hitPercentage = 0;
+    if(logAnalyzer.timesShotReceived > 0) {
+      hitPercentage = 100 - Math.round(logAnalyzer.timesMissedReceived / logAnalyzer.timesShotReceived * 100);
+    }
     $("#textGlobal").append("Hit you " + (logAnalyzer.timesShotReceived - logAnalyzer.timesMissedReceived) + " times<br>");
     $("#textGlobal").append("Missed you " + logAnalyzer.timesMissedReceived + " times<br>");
-    $("#textGlobal").append("Hit percentage " + (100 - Math.round(logAnalyzer.timesMissedReceived / logAnalyzer.timesShotReceived * 100)) + "%<br>");
+    $("#textGlobal").append("Hit percentage " + hitPercentage + "%<br>");
     $("#textGlobal").append("Total damage received: " + (Math.round(logAnalyzer.totalDamageReceived*10)/10) + "<br>");
     //$("#fileContents").appendText(outputDebug);
   },
@@ -309,19 +379,18 @@ var logAnalyzer = {
     for(index in logAnalyzer.statsData.dealt) {
       item = logAnalyzer.statsData.dealt[index];
       item = logAnalyzer.sortObject(item);
-      textDealt += "<tr><th colspan=\"6\">" + index + "</th></tr>";
+      textDealt += "<tr class=\"dealt\"><th colspan=\"6\">" + index + "</th></tr>";
       for(target in item) {
         data = item[target];
-        textDealt += "<tr><td>" + target + "</td><td>" + Math.round(data.damage*10)/10 + "</td><td>" + Math.round((data.damage/data.shots)*10)/10 + "</td><td>" + (data.shots - data.missed) + "</td><td>" + data.missed + "</td><td>" + (100 - Math.round((data.missed/data.shots)*100)) + "%</td></tr>";
+        textDealt += "<tr class=\"dealt\"><td>" + target + "</td><td>" + Math.round(data.damage*10)/10 + "</td><td>" + Math.round((data.damage/data.shots)*10)/10 + "</td><td>" + (data.shots - data.missed) + "</td><td>" + data.missed + "</td><td>" + (100 - Math.round((data.missed/data.shots)*100)) + "%</td></tr>";
       }
     }
     logAnalyzer.statsData.received = logAnalyzer.sortObject(logAnalyzer.statsData.received);
     for(index in logAnalyzer.statsData.received) {
       data = logAnalyzer.statsData.received[index];
-      textReceived += "<tr><td>" + index + "</td><td>" + Math.round(data.damage*10)/10 + "</td><td>" + Math.round((data.damage/data.shots)*10)/10 + "</td><td>" + (data.shots - data.missed) + "</td><td>" + data.missed + "</td><td>" + (100 - Math.round((data.missed/data.shots)*100)) + "%</td></tr>";
+      textReceived += "<tr class=\"received\"><td>" + index + "</td><td>" + Math.round(data.damage*10)/10 + "</td><td>" + Math.round((data.damage/data.shots)*10)/10 + "</td><td>" + (data.shots - data.missed) + "</td><td>" + data.missed + "</td><td>" + (100 - Math.round((data.missed/data.shots)*100)) + "%</td></tr>";
     }
-    $("#textDealt").html("<table class=\"damageStats\"><tr><th>Target</th><th>Total damage</th><th>Average damage</th><th>Hits</th><th>Misses</th><th>Hit %</th></tr>" + textDealt + "</table>");
-    $("#textReceived").html("<table class=\"damageStats\"><tr><th>Target</th><th>Total damage</th><th>Average damage</th><th>Hits</th><th>Misses</th><th>Hit %</th></tr>" + textReceived + "</table>");
+    $("#textTable").html("<table class=\"damageStats\"><tr class=\"dealt\"><th>Target</th><th>Total damage</th><th>Average damage</th><th>Hits</th><th>Misses</th><th>Hit %</th></tr>" + textDealt + "<tr class=\"received\"><th>Target</th><th>Total damage</th><th>Average damage</th><th>Hits</th><th>Misses</th><th>Hit %</th></tr>" + textReceived + "</table>");
   },
   initGraphs: function() {
     var dataReceived = [], dataDealt = [];

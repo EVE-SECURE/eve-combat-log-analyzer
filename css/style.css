@@ -99,10 +99,10 @@ span.no-break {
   display: none;
 }
 
-#textDealt {
+#textTable .dealt {
   color: blue;
 }
-#textReceived {
+#textTable .received {
   color: red;
 }
 .damageStats th, .damageStats td {
